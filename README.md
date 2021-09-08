@@ -4,5 +4,8 @@
 
 ## Запуск:
 
-```git clone https://github.com/IgorShum/Rb7parser.git```
-```ruby parser.rb```
+
+1. ```git clone https://github.com/IgorShum/Rb7parser.git```
+2. ```gem install open-uri```
+3. ```gem install nokogiri```
+4. ```ruby parser.rb```
